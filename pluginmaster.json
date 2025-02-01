@@ -1,0 +1,15 @@
+[
+  {
+    "Author": "Franz (modded by Eikyu)",
+    "Name": "Discord Chat Bridge",
+    "InternalName": "Dalamud.DiscordBridge",
+    "Punchline": "允许你在Discord中收发游戏内消息。",
+    "AssemblyVersion": "f1.5.0.3",
+    "Description": "这个插件允许你在Discord中收发游戏内消息。",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 10,
+    "IconUrl": "https://raw.githubusercontent.com/eikyu721/Dalamud.DiscordBridge/cn_fork/Dalamud.DiscordBridge/icon.png",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/eikyu721/DalamudPlugins/main/Dalamud.DiscordBridge/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/eikyu721/DalamudPlugins/main/Dalamud.DiscordBridge/latest.zip"
+  }
+]
