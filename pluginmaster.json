@@ -9,7 +9,7 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": 10,
     "IconUrl": "https://raw.githubusercontent.com/eikyu721/Dalamud.DiscordBridge/cn_fork/Dalamud.DiscordBridge/icon.png",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/eikyu721/DalamudPlugins/main/Dalamud.DiscordBridge/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/eikyu721/DalamudPlugins/main/Dalamud.DiscordBridge/latest.zip"
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/eikyu721/DalamudPlugins/main/Plugins/Dalamud.DiscordBridge/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/eikyu721/DalamudPlugins/main/Plugins/Dalamud.DiscordBridge/latest.zip"
   }
 ]
